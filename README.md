@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-00adb5?style=for-the-badge&logo=telegram)](https://t.me/Dlaize)
+[![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-00adb5?style=flat&logo=telegram)](https://t.me/Dlaize)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdakshkohli23%2F&count_bg=%2300ADB5&title_bg=%23393E46&icon=mocha.svg&icon_color=%23FFFFFF&title=Coffee&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdakshkohli23%2F&count_bg=%2300ADB5&title_bg=%23393E46&icon=mocha.svg&icon_color=%23FFFFFF&title=Coffee&edge_flat=false)
 
 - 🔭 I’m Digital Marketer 
 - 🌱 I’m currently Testing TG Botz and Making Websites
