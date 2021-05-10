@@ -14,5 +14,5 @@
 ![Dlaize's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakshkohli23&show_icons=true&theme=algolia)
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkohli23&show_icons=true&theme=algolia)
-
-![Sharingan Rename Bot](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cartoonseriesz&repo=Sharingan-Rename-Bot&theme=algolia)
+![Sharingan Rename Bot](https://github-readme-stats.vercel.app/api/pin/?username=cartoonseriesz&repo=Sharingan-Rename-Bot&theme=algolia)
+![Force-Subscribe-Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Force-Subscribe-Bot&theme=algolia)
