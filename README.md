@@ -11,5 +11,6 @@
 - 📫 How to reach me: Telegram - [@Dlaize](https://t.me/Dlaize)
 - ⚡ fact: I am Noob😌
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dlaize&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Dlaize's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakshkohli23&show_icons=true&theme=algolia)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkohli23&show_icons=true&theme=algolia)
 
