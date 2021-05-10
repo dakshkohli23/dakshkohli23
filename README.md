@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/Dlaize-30302f?style=for-the-badge&logo=telegram)](https://t.me/Dlaize)
+[![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-2a2a2a?style=for-the-badge&logo=telegram)](https://t.me/Dlaize)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dakshkohli23/)
 
