@@ -2,7 +2,7 @@
 
 ---
 
-[![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-00adb5?style=flat&logo=telegram)](https://t.me/Dlaize)  <img src="https://komarev.com/ghpvc/?username=dakshkohli23&label=Profile%20views&color=00adb5&style=flat?logo=bitrise" alt="dlaize" />
+[![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-00adb5?style=flat&logo=telegram)](https://t.me/Dlaize)  <img src="https://komarev.com/ghpvc/?username=dakshkohli23&label=Profile%20views&color=00adb5&style=flat" alt="dlaize" />
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdakshkohli23%2F&count_bg=%2300ADB5&title_bg=%23393E46&icon=mocha.svg&icon_color=%23FFFFFF&title=Coffee&edge_flat=false)
 
