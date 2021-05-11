@@ -1,11 +1,5 @@
 <h1 align="center"><b>Heya 👋 I'm Dlaize 👨‍💻</b></h1>
 
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
-</p>
-
-
 ---
 
 [![telegram badge](https://img.shields.io/badge/Dlaize-Kohli-00adb5?style=flat&logo=telegram)](https://t.me/Dlaize)
