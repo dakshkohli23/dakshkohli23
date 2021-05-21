@@ -22,5 +22,4 @@
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkohli23&show_icons=true&theme=algolia)
 
 ![Sharingan Rename Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Sharingan-Rename-Bot&theme=algolia)
-
 ![Force-Subscribe-Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Force-Subscribe-Bot&theme=algolia)
