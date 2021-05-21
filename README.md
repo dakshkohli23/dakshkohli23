@@ -15,7 +15,7 @@
 - ⚡ Yes! I'm Noob 😌
 
 ---
-<center> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakshkohli23&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakshkohli23&theme=algolia)](https://git.io/streak-stats)
 
 ![Dlaize's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakshkohli23&show_icons=true&theme=algolia)
 
@@ -23,4 +23,4 @@
 
 ![Sharingan Rename Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Sharingan-Rename-Bot&theme=algolia)
 
-![Force-Subscribe-Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Force-Subscribe-Bot&theme=algolia) </center>
+![Force-Subscribe-Bot](https://github-readme-stats.vercel.app/api/pin/?username=dakshkohli23&repo=Force-Subscribe-Bot&theme=algolia)
